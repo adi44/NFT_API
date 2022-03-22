@@ -22,12 +22,14 @@ Following are the parameters that you need to add
 
 From Step 1 to Step 5 : you would be able to set up the dynamoDB web service which will be used to store all the generated API keys.
 
-Step 1 : Create a aws account, and generate a access key and access key secret \
-Step 2 : install aws cli \
-Step 3 : configure user using access key and access key secret \
-Step 4 : install Boto3 aws Sdk for python \
-Step 5 : run ```python3 db.py``` \
-Step 6 : run ```python3 api.py``` 
+
+step 1 : Install all the dependencies using ```pip3 install -r requirements.txt``` \
+Step 2 : Create a aws account, and generate a access key and access key secret \
+Step 3 : install aws cli \
+Step 4 : configure user using access key and access key secret \
+Step 5 : install Boto3 aws Sdk for python \
+Step 6 : run ```python3 db.py``` \
+Step 7 : run ```python3 api.py``` 
 
 This will start the server and you can use the endpoints. 
 
