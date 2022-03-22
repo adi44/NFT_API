@@ -35,7 +35,7 @@ This will start the server and you can use the endpoints.
 
 ## How to use the API {for users}
 
-Step 1 : generate the API Key by going to the  `./generateAPIKey` endpoint \
+Step 1 : generate the API Key by going to the  `./generateAPI_KEY` endpoint \
 Step 2 : to mint NFT contract go to  `./mft/create?api_key=API_KEY_GENERATED` enpoint \
 Step 3 : to mint NFT token goto `./nft/create?api_key=API_KEY_GENERATED&nft_contract_id=NFT_CONTRACT_ADDRESS&wallet_address=WALLET_ADDRESS&nft_metadata=NFT_METADATA` 
 
