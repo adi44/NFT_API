@@ -15,10 +15,10 @@ Ensure that you have Python3.x and pip3 installed on your device.
 
 Following are the parameters that you need to add
 
-  PRIVATE_KEY= \
-  INFURA_URL= \
-  NFT_FACTORY_ADDRESS= \
-  CHAIN_ID= 
+  PRIVATE_KEY=PLS_PUT_YOUR_PRIVATE_KEY \
+  INFURA_URL=PLS_PUT_MUMBAI_POLYGON_RPC \
+  NFT_FACTORY_ADDRESS=0x94bf309a14b2190257eB77df0E1297a8A3d03AA9 \
+  CHAIN_ID=80001 
 
 From Step 1 to Step 5 : you would be able to set up the dynamoDB web service which will be used to store all the generated API keys.
 
@@ -43,3 +43,4 @@ Both of the endpoint will return a transaction hash that you can check on https:
 
 Users do not need to use any wallet to mint NFT or create Contract
 
+NFT FACTORY CONTRACT DEPLOYED : 0x94bf309a14b2190257eB77df0E1297a8A3d03AA9
